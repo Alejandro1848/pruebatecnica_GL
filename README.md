@@ -54,7 +54,7 @@ Asegúrese de tener acceso a Google Colab o un entorno similar que pueda montar 
 
 ![Scripts dentro del drive](images/IMG1.png)
 
-Coloque los scripts en la misma carpeta que el notebook o asegúrese de que las rutas de importación sean correctas. Adicionalmente recuerde que dentro de la carpeta Data deben estar renombrados los archivos de forma lófica de acuerdo al mes y año que corresponden. Como se muestra en la siguiente imagen.
+Coloque los scripts en la misma carpeta que el notebook o asegúrese de que las rutas de importación sean correctas. Adicionalmente recuerde que dentro de la carpeta Data deben estar renombrados los archivos de forma lógica de acuerdo al mes y año que corresponden. Como se muestra en la siguiente imagen.
 
 ![Nombres de los archivos de Excel descargables](images/IMG2.png)
 
