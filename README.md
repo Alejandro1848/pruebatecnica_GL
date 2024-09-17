@@ -50,9 +50,12 @@ Visualizar los resultados del clustering y contar la distribución de los cluste
 Instrucciones de Uso
 Para utilizar este proyecto, siga los pasos:
 
-Asegúrese de tener acceso a Google Colab o un entorno similar que pueda montar Google Drive.
+Asegúrese de tener acceso a Google Colab o un entorno similar que pueda montar Google Drive. Las carpetas deben estar ordenadas de la siguiente forma dentro de su drive.
 
-![Descripción alternativa](images/IMG1.png)
+![Scripts dentro del drive](images/IMG1.png)
 
-Coloque los scripts en la misma carpeta que el notebook o asegúrese de que las rutas de importación sean correctas.
-Ejecute el notebook Purchases.ipynb desde el principio hasta el final para ver el flujo completo de análisis y visualización.
+Coloque los scripts en la misma carpeta que el notebook o asegúrese de que las rutas de importación sean correctas. Adicionalmente recuerde que dentro de la carpeta Data deben estar renombrados los archivos de forma lófica de acuerdo al mes y año que corresponden. Como se muestra en la siguiente imagen.
+
+![Nombres de los archivos de Excel descargables](images/IMG2.png)
+
+Ejecute el notebook Purchases.ipynb desde el principio hasta el final para ver el flujo completo de análisis y visualización. Los datos fueron descargadops directamente desde https://www.cityobservatory.birmingham.gov.uk/@birmingham-city-council/purchase-card-transactions y resubidos a un drive personal.
