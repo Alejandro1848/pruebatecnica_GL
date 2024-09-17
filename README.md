@@ -51,5 +51,8 @@ Instrucciones de Uso
 Para utilizar este proyecto, siga los pasos:
 
 Asegúrese de tener acceso a Google Colab o un entorno similar que pueda montar Google Drive.
+
+![Descripción alternativa](images/IMG1.png)
+
 Coloque los scripts en la misma carpeta que el notebook o asegúrese de que las rutas de importación sean correctas.
 Ejecute el notebook Purchases.ipynb desde el principio hasta el final para ver el flujo completo de análisis y visualización.
